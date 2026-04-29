@@ -137,7 +137,6 @@ Contributions are welcome! Feel free to fork and improve the project.
 
 ## 📬 Contact
 
-**Ankita Sahay**
 Phulo Baskey GitHub: https://github.com/phuloBaskey27-tech
 
 ---
