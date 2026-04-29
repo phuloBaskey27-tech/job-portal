@@ -72,8 +72,7 @@ jobportal-yt/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/ankitasahay8/job-portal.git
-cd job-portal
+git clone https://github.com/phuloBaskey27-tech/job-portal.git
 ```
 
 ---
