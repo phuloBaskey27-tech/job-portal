@@ -138,6 +138,6 @@ Contributions are welcome! Feel free to fork and improve the project.
 ## 📬 Contact
 
 **Ankita Sahay**
-GitHub: https://github.com/ankitasahay8
+Phulo Baskey GitHub: https://github.com/phuloBaskey27-tech
 
 ---
